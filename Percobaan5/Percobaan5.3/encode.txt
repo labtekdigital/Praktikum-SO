@@ -1,0 +1,8 @@
+Memproses dekompresi Base64 pada file: chall3_1.txt
+------------------------------------------------
+SISTEM BERHASIL MEMBONGKAR KODE BASE64...
+Selamat datang di Jaringan Intranet Lab Teknik Digital!
+Flag 1: CTF{B4sE64_1s_N0t_3ncrypt10n_Just_3nc0d1ng}
+
+------------------------------------------------
+Selesai!
