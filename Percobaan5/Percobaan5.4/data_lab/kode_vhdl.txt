@@ -1,5 +1,0 @@
-library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
-entity gerbang_and is
-port(A, B: in std_logic; Y: out std_logic);
-end gerbang_and;

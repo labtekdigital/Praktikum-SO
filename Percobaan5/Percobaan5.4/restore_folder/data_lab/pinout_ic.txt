@@ -1,4 +1,0 @@
-IC 74HC00 (NAND)
-Pin 1: Input A
-Pin 2: Input B
-Pin 3: Output
